@@ -1,0 +1,1 @@
+RAG stands for Retrieveal Agumented Generation

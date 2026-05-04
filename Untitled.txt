@@ -1,0 +1,3 @@
+
+to activate virtual env in rag AI
+AI1\Scripts\activate
